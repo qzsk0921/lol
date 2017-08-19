@@ -1,0 +1,1 @@
+用ssh连接之前 生成的公钥命令ssh-keygen -t rsa,在用户根目录下面的.ssh文件夹的id_rsa.pub文件里
